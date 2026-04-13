@@ -1,13 +1,15 @@
 title: BoRan Yang
-name: BoRan Yang 
+name: BoRan Yang
 email: yangbr@cqut.edu.cn
 description: Associate Professor at Chongqing University of Technology
-github_username: 
 avatar: "/images/profile.jpg"
 url: "https://liujingjing4.github.io"
 baseurl: ""
 
-# 社交
-linkedin_username: 
-google_scholar_id: 
-orcid: 
+github_username: ""
+linkedin_username: ""
+google_scholar_id: ""
+orcid: ""
+twitter_username: ""
+
+footer_text: "© BoRan Yang. All rights reserved."
